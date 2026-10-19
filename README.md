@@ -9,7 +9,7 @@ Add the following to your `Package.swift` file:
 
 ```swift
 dependencies: [
-  .package(url: "https://github.com/indigo-ce/http-request-builder.git", from: "0.9.0")
+  .package(url: "https://github.com/indigo-stacks/http-request-builder.git", from: "0.9.0")
 ]
 ```
 
